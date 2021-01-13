@@ -1,0 +1,11 @@
+E:\Entity\20200618_EntityFramework\20200618_EntityFramework\bin\Debug\20200618_EntityFramework.exe.config
+E:\Entity\20200618_EntityFramework\20200618_EntityFramework\bin\Debug\20200618_EntityFramework.exe
+E:\Entity\20200618_EntityFramework\20200618_EntityFramework\bin\Debug\20200618_EntityFramework.pdb
+E:\Entity\20200618_EntityFramework\20200618_EntityFramework\obj\Debug\20200618_EntityFramework.csprojAssemblyReference.cache
+E:\Entity\20200618_EntityFramework\20200618_EntityFramework\obj\Debug\_20200618_EntityFramework.Form1.resources
+E:\Entity\20200618_EntityFramework\20200618_EntityFramework\obj\Debug\_20200618_EntityFramework.Properties.Resources.resources
+E:\Entity\20200618_EntityFramework\20200618_EntityFramework\obj\Debug\20200618_EntityFramework.csproj.GenerateResource.cache
+E:\Entity\20200618_EntityFramework\20200618_EntityFramework\obj\Debug\20200618_EntityFramework.csproj.CoreCompileInputs.cache
+E:\Entity\20200618_EntityFramework\20200618_EntityFramework\obj\Debug\20200618_EntityFramework.exe
+E:\Entity\20200618_EntityFramework\20200618_EntityFramework\obj\Debug\20200618_EntityFramework.pdb
+E:\Entity\20200618_EntityFramework\20200618_EntityFramework\obj\Debug\_20200618_EntityFramework.Form2.resources
